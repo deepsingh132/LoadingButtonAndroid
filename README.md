@@ -1,7 +1,7 @@
 
-[ ![Download](https://api.bintray.com/packages/lehen01/maven/loading-button/images/download.svg) ](https://bintray.com/lehen01/maven/loading-button/_latestVersion)[![Build Status](https://travis-ci.org/leandroBorgesFerreira/LoadingButtonAndroid.svg?branch=master)](https://travis-ci.org/leandroBorgesFerreira/LoadingButtonAndroid)
+[ ![Download](https://api.bintray.com/packages/lehen01/maven/loading-button/images/download.svg) ](https://bintray.com/lehen01/maven/loading-button/_latestVersion)[![Build Status](https://travis-ci.org/deepsingh/LoadingButtonAndroid.svg?branch=master)](https://travis-ci.org/deepsingh132/LoadingButtonAndroid)
 
-Hey, if you think this (or other of my projects) help you some how, please consider giving me some sponsorship: https://github.com/sponsors/leandroBorgesFerreira
+Hey, if you think this (or other of my projects) help you some how, please consider giving me some sponsorship: https://github.com/sponsors/deepsingh132
 (Open source software can be quite a work haha)
 
 # Progress Button Android
